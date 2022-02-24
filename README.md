@@ -14,7 +14,8 @@ josi@di.ku.dk
 Diana Andrejev, Data Scientist
 andrejeva@sund.ku.dk
 
-# For the workshops last exercise we will be working with three private repositorys to learn to work with requests:
+
+For the workshops last exercise we will be working with three private repositorys to learn to work with requests:
 
 Jonas' repo: https://github.com/jonassibbesen/git-github-workshop-team1
 
