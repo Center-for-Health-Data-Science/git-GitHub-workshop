@@ -17,5 +17,7 @@ andrejeva@sund.ku.dk
 For the workshops last exercise we will be working with three private repositorys to learn to work with requests:
 
 Jonas' repo: https://github.com/jonassibbesen/git-github-workshop-team1
+
 Diana's repo: https://github.com/andrejeva-d/git-github-workshop-team2
+
 Thilde's repo: https://github.com/ThildeBT/git-github-workshop-team3
