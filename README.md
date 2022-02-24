@@ -1,4 +1,4 @@
-# git-GitHub-workshop-2022
+## git-GitHub-workshop-2022
 
 This repository is used for the HeaDS git and GitHub workshop 2022.
 Workshop participants should clone the repo after which they can use it to complete workshop exercises associated. The shared repo is made for hosting cooking recipies which are made locally by participents and then pushed to remote for everyone to view.
@@ -14,7 +14,7 @@ josi@di.ku.dk
 Diana Andrejev, Data Scientist
 andrejeva@sund.ku.dk
 
-For the workshops last exercise we will be working with three private repositorys to learn to work with requests:
+# For the workshops last exercise we will be working with three private repositorys to learn to work with requests:
 
 Jonas' repo: https://github.com/jonassibbesen/git-github-workshop-team1
 
