@@ -14,6 +14,9 @@ josi@di.ku.dk
 Diana Andrejev, Data Scientist
 andrejeva@sund.ku.dk
 
+Henrike Zschach, Data Scientist
+henrike.zschach@sund.ku.dk
+
 
 For the workshops last exercise we will be working with three private repositorys to learn to work with requests:
 
