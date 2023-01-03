@@ -24,4 +24,4 @@ Jonas' repo: https://github.com/jonassibbesen/git-github-workshop-team1
 
 Diana's repo: https://github.com/andrejeva-d/git-github-workshop-team2
 
-Thilde's repo: https://github.com/ThildeBT/git-github-workshop-team3
+Henrike's repo: https://github.com/hezscha/git-github-workshop-team3
