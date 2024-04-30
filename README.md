@@ -16,7 +16,7 @@ Cheat sheet containing many of the commands that will be introduced in the works
 
 ### Workshop contacts:
 
-Thilde Terkelsen
+Thilde Terkelsen, Research Consultant
 thilde.terkelsen@sund.ku.dk
 
 Henrike Zschach, Data Scientist
