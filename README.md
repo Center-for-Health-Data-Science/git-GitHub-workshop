@@ -1,6 +1,6 @@
-## HeaDS git and GitHub workshop 2023
+## HeaDS git and GitHub workshop 2024
 
-This repository is used for the HeaDS git and GitHub workshop 2023. 
+This repository is used for the HeaDS git and GitHub workshop 2024. 
 
 The slides for the workshop are available here: [git-slides_January_2023.pdf](https://github.com/Center-for-Health-Data-Science/git-GitHub-workshop/blob/January_2023/git-slides_January_2023.pdf). The [recipes](https://github.com/Center-for-Health-Data-Science/git-GitHub-workshop/tree/January_2023/recipes) folder contains examples of recipes which can be used for inspiration in the exercises. For the workshops last exercise we will be working with three shared repositories:
 
