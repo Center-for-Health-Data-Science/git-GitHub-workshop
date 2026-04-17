@@ -8,7 +8,7 @@ The slides for the workshop are available here: [](). The [recipes]() folder con
 
 **Suze repo: bla/git-GitHub-workshop-team2**
 
-**Thilde repo: bla/git-GitHub-workshop-team3**
+**Thilde repo: https://github.com/ThildeBT/git-GitHub-workshop-team3**
 
 Each participant will be assigned to a team (teams will be assigned during the workshop).
 
