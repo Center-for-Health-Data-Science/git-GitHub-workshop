@@ -4,9 +4,9 @@ This repository is used for the HeaDS git and GitHub workshop.
 
 The slides for the workshop are available here: [](). The [recipes]() folder contains examples of recipes which can be used for inspiration in the exercises. For the workshops last exercise we will be working with three shared repositories:
 
-**Diana repo: bla/git-GitHub-workshop-team1**
+**Suze repo: https://github.com/sroostee/git-GitHub-workshop-team1.git**
 
-**Suze repo: bla/git-GitHub-workshop-team2**
+**Diana repo: bla/git-GitHub-workshop-team2**
 
 **Thilde repo: https://github.com/ThildeBT/git-GitHub-workshop-team3**
 
