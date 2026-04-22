@@ -6,7 +6,7 @@ The slides for the workshop are available here: [](). The [recipes]() folder con
 
 **Suze repo: https://github.com/sroostee/git-GitHub-workshop-team1**
 
-**Diana repo: https://github.com/andrejeva-d/git-Github-workshop-team2**
+**Diana repo: https://github.com/andrejeva-d/git-GitHub-workshop-team2**
 
 **Thilde repo: https://github.com/ThildeBT/git-GitHub-workshop-team3**
 
